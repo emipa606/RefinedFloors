@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: decorated granite tile -->
+  <ATK_DecoratedTileStoneGranite.label>decorated granite tile</ATK_DecoratedTileStoneGranite.label>
+  <!-- EN: Decorative stone tiles that have been cut and laid with great precision. Slow to construct and very beautiful. -->
+  <ATK_DecoratedTileStoneGranite.description>Decorative stone tiles that have been cut and laid with great precision. Slow to construct and very beautiful.</ATK_DecoratedTileStoneGranite.description>
+  <!-- EN: decorated limestone tile -->
+  <ATK_DecoratedTileStoneLimestone.label>decorated limestone tile</ATK_DecoratedTileStoneLimestone.label>
+  <!-- EN: Decorative stone tiles that have been cut and laid with great precision. Slow to construct and very beautiful. -->
+  <ATK_DecoratedTileStoneLimestone.description>Decorative stone tiles that have been cut and laid with great precision. Slow to construct and very beautiful.</ATK_DecoratedTileStoneLimestone.description>
+  <!-- EN: decorated marble tile -->
+  <ATK_DecoratedTileStoneMarble.label>decorated marble tile</ATK_DecoratedTileStoneMarble.label>
+  <!-- EN: Decorative stone tiles that have been cut and laid with great precision. Slow to construct and very beautiful. -->
+  <ATK_DecoratedTileStoneMarble.description>Decorative stone tiles that have been cut and laid with great precision. Slow to construct and very beautiful.</ATK_DecoratedTileStoneMarble.description>
+  <!-- EN: decorated sandstone tile -->
+  <ATK_DecoratedTileStoneSandstone.label>decorated sandstone tile</ATK_DecoratedTileStoneSandstone.label>
+  <!-- EN: Decorative stone tiles that have been cut and laid with great precision. Slow to construct and very beautiful. -->
+  <ATK_DecoratedTileStoneSandstone.description>Decorative stone tiles that have been cut and laid with great precision. Slow to construct and very beautiful.</ATK_DecoratedTileStoneSandstone.description>
+  <!-- EN: decorated slate tile -->
+  <ATK_DecoratedTileStoneSlate.label>decorated slate tile</ATK_DecoratedTileStoneSlate.label>
+  <!-- EN: Decorative stone tiles that have been cut and laid with great precision. Slow to construct and very beautiful. -->
+  <ATK_DecoratedTileStoneSlate.description>Decorative stone tiles that have been cut and laid with great precision. Slow to construct and very beautiful.</ATK_DecoratedTileStoneSlate.description>
+  <!-- EN: granite pebbles -->
+  <ATK_PebblesGranite.label>granite pebbles</ATK_PebblesGranite.label>
+  <!-- EN: An aggregate of decorative stone pebbles. They are neutral to look at, and relatively quick to lay. -->
+  <ATK_PebblesGranite.description>An aggregate of decorative stone pebbles. They are neutral to look at, and relatively quick to lay.</ATK_PebblesGranite.description>
+  <!-- EN: limestone pebbles -->
+  <ATK_PebblesLimestone.label>limestone pebbles</ATK_PebblesLimestone.label>
+  <!-- EN: An aggregate of decorative stone pebbles. They are neutral to look at, and relatively quick to lay. -->
+  <ATK_PebblesLimestone.description>An aggregate of decorative stone pebbles. They are neutral to look at, and relatively quick to lay.</ATK_PebblesLimestone.description>
+  <!-- EN: marble pebbles -->
+  <ATK_PebblesMarble.label>marble pebbles</ATK_PebblesMarble.label>
+  <!-- EN: An aggregate of decorative stone pebbles. They are neutral to look at, and relatively quick to lay. -->
+  <ATK_PebblesMarble.description>An aggregate of decorative stone pebbles. They are neutral to look at, and relatively quick to lay.</ATK_PebblesMarble.description>
+  <!-- EN: sandstone pebbles -->
+  <ATK_PebblesSandstone.label>sandstone pebbles</ATK_PebblesSandstone.label>
+  <!-- EN: An aggregate of decorative stone pebbles. They are neutral to look at, and relatively quick to lay. -->
+  <ATK_PebblesSandstone.description>An aggregate of decorative stone pebbles. They are neutral to look at, and relatively quick to lay.</ATK_PebblesSandstone.description>
+  <!-- EN: slate pebbles -->
+  <ATK_PebblesSlate.label>slate pebbles</ATK_PebblesSlate.label>
+  <!-- EN: An aggregate of decorative stone pebbles. They are neutral to look at, and relatively quick to lay. -->
+  <ATK_PebblesSlate.description>An aggregate of decorative stone pebbles. They are neutral to look at, and relatively quick to lay.</ATK_PebblesSlate.description>
+  <!-- EN: granite slab -->
+  <ATK_SlabGranite.label>granite slab</ATK_SlabGranite.label>
+  <!-- EN: Carefully-cut and fit stone tiles. They are pretty to look at, but they take a long time to lay. -->
+  <ATK_SlabGranite.description>Carefully-cut and fit stone tiles. They are pretty to look at, but they take a long time to lay.</ATK_SlabGranite.description>
+  <!-- EN: limestone slab -->
+  <ATK_SlabLimestone.label>limestone slab</ATK_SlabLimestone.label>
+  <!-- EN: Carefully-cut and fit stone tiles. They are pretty to look at, but they take a long time to lay. -->
+  <ATK_SlabLimestone.description>Carefully-cut and fit stone tiles. They are pretty to look at, but they take a long time to lay.</ATK_SlabLimestone.description>
+  <!-- EN: marble slab -->
+  <ATK_SlabMarble.label>marble slab</ATK_SlabMarble.label>
+  <!-- EN: Carefully-cut and fit stone tiles. They are pretty to look at, but they take a long time to lay. -->
+  <ATK_SlabMarble.description>Carefully-cut and fit stone tiles. They are pretty to look at, but they take a long time to lay.</ATK_SlabMarble.description>
+  <!-- EN: sandstone slab -->
+  <ATK_SlabSandstone.label>sandstone slab</ATK_SlabSandstone.label>
+  <!-- EN: Carefully-cut and fit stone tiles. They are pretty to look at, but they take a long time to lay. -->
+  <ATK_SlabSandstone.description>Carefully-cut and fit stone tiles. They are pretty to look at, but they take a long time to lay.</ATK_SlabSandstone.description>
+  <!-- EN: slate slab -->
+  <ATK_SlabSlate.label>slate slab</ATK_SlabSlate.label>
+  <!-- EN: Carefully-cut and fit stone tiles. They are pretty to look at, but they take a long time to lay. -->
+  <ATK_SlabSlate.description>Carefully-cut and fit stone tiles. They are pretty to look at, but they take a long time to lay.</ATK_SlabSlate.description>
+</LanguageData>

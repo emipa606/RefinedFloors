@@ -5,14 +5,15 @@
   <author>AveryTheKitty and Erin</author>
   <url>https://github.com/emipa606/RefinedFloors</url>
   <supportedVersions>
-    <li>1.6</li>
+    <li>1.7</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter />
   <description>[img]https://img.litet.net/logos/Info.png[/img]
 Update of AveryTheKitty and Erins mod https://steamcommunity.com/sharedfiles/filedetails/?id=2464923082
 
-[img]https://img.litet.net/logos/Notice.png[/img]
+[b]The release of RimWorld 1.7 added a system where assets like textures and sounds can be cached to improve performance[/b].
+To avoid doubling the size of the mod, it was re-released with only this cache included, you can find the previous version of this mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3670103084]here[/url].
 
 [table]
     [tr][td][url=https://discord.gg/h5TY6DA][img]https://img.litet.net/logos/Discord.png[/img][/url][/td] [td][url=https://github.com/emipa606/RefinedFloors][img]https://img.litet.net/logos/Github.png[/img][/url][/td]
@@ -27,6 +28,9 @@ Update of AveryTheKitty and Erins mod https://steamcommunity.com/sharedfiles/fil
 [h1]THIS MOD HAS BEEN DISCONTINUED.[/h1]
 It will not receive further updates. Contact Willow if you have any questions.
 
+Refined Floors adds a selection of new floors to use when building your
+colony! They're balanced according to other vanilla floors.
+
 [img]https://img.litet.net/logos/ReportingIssues.png[/img]
 [list]
 [*] See if the error persists if you just have this mod and its requirements active.
@@ -36,6 +40,6 @@ It will not receive further updates. Contact Willow if you have any questions.
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
-[/list]</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.6.0</modVersion>
+[/list]  | refinement, decorations</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.7.0</modVersion>
 </ModMetaData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: packed dirt -->
+  <ATK_PackedDirt.label>packed dirt</ATK_PackedDirt.label>
+  <!-- EN: Dirt packed together to create a path. -->
+  <ATK_PackedDirt.description>Dirt packed together to create a path.</ATK_PackedDirt.description>
+  <!-- EN: packed gravel -->
+  <ATK_PackedGravel.label>packed gravel</ATK_PackedGravel.label>
+  <!-- EN: Gravel packed together to create a path. -->
+  <ATK_PackedGravel.description>Gravel packed together to create a path.</ATK_PackedGravel.description>
+</LanguageData>

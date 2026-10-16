@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: blue textured carpet -->
+  <ATK_TexturedCarpetBlue.label>blue textured carpet</ATK_TexturedCarpetBlue.label>
+  <!-- EN: Plush carpet with a textured weave in a cool blue. -->
+  <ATK_TexturedCarpetBlue.description>Plush carpet with a textured weave in a cool blue.</ATK_TexturedCarpetBlue.description>
+  <!-- EN: cream textured carpet -->
+  <ATK_TexturedCarpetCream.label>cream textured carpet</ATK_TexturedCarpetCream.label>
+  <!-- EN: Plush carpet with a textured weave in an inviting cream colour. -->
+  <ATK_TexturedCarpetCream.description>Plush carpet with a textured weave in an inviting cream colour.</ATK_TexturedCarpetCream.description>
+  <!-- EN: dark textured carpet -->
+  <ATK_TexturedCarpetDark.label>dark textured carpet</ATK_TexturedCarpetDark.label>
+  <!-- EN: Plush carpet with a textured weave in a professional-looking dark grey. -->
+  <ATK_TexturedCarpetDark.description>Plush carpet with a textured weave in a professional-looking dark grey.</ATK_TexturedCarpetDark.description>
+  <!-- EN: green textured carpet -->
+  <ATK_TexturedCarpetGreen.label>green textured carpet</ATK_TexturedCarpetGreen.label>
+  <!-- EN: Plush carpet with a textured weave in a naturalistic green for an earthy feeling. -->
+  <ATK_TexturedCarpetGreen.description>Plush carpet with a textured weave in a naturalistic green for an earthy feeling.</ATK_TexturedCarpetGreen.description>
+  <!-- EN: red textured carpet -->
+  <ATK_TexturedCarpetRed.label>red textured carpet</ATK_TexturedCarpetRed.label>
+  <!-- EN: Plush carpet with a textured weave in a lovely rose hue. -->
+  <ATK_TexturedCarpetRed.description>Plush carpet with a textured weave in a lovely rose hue.</ATK_TexturedCarpetRed.description>
+</LanguageData>

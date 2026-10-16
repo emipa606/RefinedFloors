@@ -4,13 +4,17 @@
 
 Update of AveryTheKitty and Erins mod https://steamcommunity.com/sharedfiles/filedetails/?id=2464923082
 
-![Image](https://img.litet.net/logos/Notice.png)
+**The release of RimWorld 1.7 added a system where assets like textures and sounds can be cached to improve performance**.
+To avoid doubling the size of the mod, it was re-released with only this cache included, you can find the previous version of this mod [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3670103084).
 	
 ![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 # THIS MOD HAS BEEN DISCONTINUED.
 
 It will not receive further updates. Contact Willow if you have any questions.
+
+Refined Floors adds a selection of new floors to use when building your
+colony! They're balanced according to other vanilla floors.
 
 ![Image](https://img.litet.net/logos/ReportingIssues.png)
 
@@ -24,4 +28,4 @@ It will not receive further updates. Contact Willow if you have any questions.
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
-
+  | refinement, decorations

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: textured carpet -->
+  <Floor_Carpet_Textured.label>textured carpet</Floor_Carpet_Textured.label>
+  <!-- EN: pebbles -->
+  <Floor_Pebbles.label>pebbles</Floor_Pebbles.label>
+  <!-- EN: slab -->
+  <Floor_Slab.label>slab</Floor_Slab.label>
+  <!-- EN: spacer metal tile -->
+  <Floor_Spacer_Tile_Metal.label>spacer metal tile</Floor_Spacer_Tile_Metal.label>
+  <!-- EN: decorated stone tile -->
+  <Floor_Tile_Decorated.label>decorated stone tile</Floor_Tile_Decorated.label>
+  <!-- EN: floor -->
+  <Floor_Wood.label>floor</Floor_Wood.label>
+  <!-- EN: fine floor -->
+  <Floor_Wood_Fine.label>fine floor</Floor_Wood_Fine.label>
+</LanguageData>
